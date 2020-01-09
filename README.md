@@ -1,1 +1,1 @@
-#BS4 Resume with gulp file and SASS
+#BS4 Social site with gulp file and SASS
